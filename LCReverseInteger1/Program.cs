@@ -1,4 +1,6 @@
-﻿using System;
+﻿//please for the love of 'hello world' do not do something like this in your professional work.
+
+using System;
 using System.Linq;
 
 namespace LCReverseInteger1
